@@ -1,4 +1,4 @@
-# cats_dogs
+# SVM - ANN Comparison via Cats and Dogs Dataset
 
 ### The Scope of the Project
 
